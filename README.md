@@ -64,7 +64,7 @@ const API_KEY = "your_api_key_here";
 
 Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/sharvani20/weather-project.git
 
 
 Open the project folder
