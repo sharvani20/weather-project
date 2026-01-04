@@ -60,5 +60,17 @@ with:
 ```js
 const API_KEY = "your_api_key_here";
 ```
+▶️ How to Run the Project
 
+Clone the repository:
+
+git clone https://github.com/your-username/weather-app.git
+
+
+Open the project folder
+
+Open index.html in your browser
+OR
+
+Use Live Server in VS Code for live preview
 
